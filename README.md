@@ -50,18 +50,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 * Thanks to Cognifyz for providing the internship opportunity that inspired this project.
-
----
-
-**Note:** This README is designed to be informative and concise. You can customize it further by adding screenshots, more detailed explanations of the sorting algorithms, or future plans for the project.
-```
-
-**Key points to keep in mind when creating a README.md:**
-
-* **Clear Title:** Make it obvious what your project is about.
-* **Concise Description:** Briefly explain the purpose and key features.
-* **Instructions:** Provide clear steps on how to get the project running.
-* **Examples:** Help users understand how to use your code with practical examples.
-* **Contributing:** Encourage collaboration by outlining how others can help.
-* **License:** Specify the license to clarify usage rights.
-* **Acknowledgments:** Give credit where it's due.
